@@ -589,7 +589,7 @@
 
 ### Question 1
 
-* Locate the DNS query and response messages. Are they sent over UDP or TCP?*
+*Locate the DNS query and response messages. Are they sent over UDP or TCP?*
 
 #### Answer
 
@@ -857,5 +857,6 @@
 >     Destination: 161.69.12.13
 > Transmission Control Protocol, Src Port: 12056, Dst Port: 80, Seq: 0, Len: 0
 > ```
+
 
 
