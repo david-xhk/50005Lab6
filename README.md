@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [50.005 Lab 6: DNS Lab](https://github.com/han-keong/50005Lab6/blob/master/README.md#50-005-lab-6-dns-lab)
+- [50.005 Lab 6: DNS Lab](https://github.com/han-keong/50005Lab6/blob/master/README.md#50005-lab-6-dns-lab)
   * [Overview](https://github.com/han-keong/50005Lab6/blob/master/README.md#overview)
   * [Part 1: Exploring DNS using `dig`](https://github.com/han-keong/50005Lab6/blob/master/README.md#part-1-exploring-dns-using-dig)
     + [DNS Basics](https://github.com/han-keong/50005Lab6/blob/master/README.md#dns-basics)
@@ -857,4 +857,5 @@
 >     Destination: 161.69.12.13
 > Transmission Control Protocol, Src Port: 12056, Dst Port: 80, Seq: 0, Len: 0
 > ```
+
 
