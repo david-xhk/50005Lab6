@@ -624,9 +624,9 @@
 
 #### Answer
 
-- The destination port for the DNS query message is always port `53`.
+- The destination port for the DNS query message is port `53`.
 
-- The source port of the DNS response message is also always port `53`.
+- The source port of the DNS response message is also port `53`.
 
 #### Outputs
 
@@ -857,4 +857,5 @@
 >     Destination: 161.69.12.13
 > Transmission Control Protocol, Src Port: 12056, Dst Port: 80, Seq: 0, Len: 0
 > ```
+
 
