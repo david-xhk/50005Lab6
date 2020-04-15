@@ -837,7 +837,7 @@
 
 #### Outputs
 
-> **Output of `Frame 13` (TCP SYN) **
+> **Output of `Frame 13` (TCP SYN)**
 > ```
 > Frame 13: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface \Device\NPF_{EB24B36B-D34B-4538-82BD-2835D4018C53}, id 0
 > Ethernet II, Src: LiteonTe_f4:af:32 (20:68:9d:f4:af:32), Dst: CheckPoi_30:5d:5f (00:1c:7f:30:5d:5f)
@@ -857,3 +857,4 @@
 >     Destination: 161.69.12.13
 > Transmission Control Protocol, Src Port: 12056, Dst Port: 80, Seq: 0, Len: 0
 > ```
+
