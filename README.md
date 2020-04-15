@@ -128,7 +128,7 @@
 
 - The expiration time for the `CNAME` record was **1799 seconds**.
 
-  - This can be found in the second column of the `CNAME` record (See [above]#outputs).
+  - This can be found in the second column of the `CNAME` record (See [above](#outputs)).
 
 
 #### Question 4
@@ -857,5 +857,7 @@
 >     Destination: 161.69.12.13
 > Transmission Control Protocol, Src Port: 12056, Dst Port: 80, Seq: 0, Len: 0
 > ```
+
+
 
 
